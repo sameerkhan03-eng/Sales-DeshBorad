@@ -59,5 +59,5 @@ Include forecasting models
 🙌 Conclusion
 
 This dashboard provides a complete overview of sales performance and helps businesses identify growth opportunities through data-driven insights.
-![Sales Dashboard](./assets/dashboard.png)
+![Sales Dashboard](https://github.com/sameerkhan03-eng/Sales-DeshBorad/blob/main/Screenshot%202026-04-19%20093706.png)
 
