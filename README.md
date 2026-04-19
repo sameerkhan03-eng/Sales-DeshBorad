@@ -17,6 +17,7 @@ Highest sales observed in December, indicating seasonal demand.
 💳 Payment Mode Analysis
 Online Payments (53%) dominate over Cash (47%).
 Indicates growing digital adoption among customers.
+
 🛍️ Sales by Product
 Top-performing products:
 Sugar
@@ -28,6 +29,7 @@ Grocery is the leading category (1336K sales).
 Followed by:
 Personal Care (747K)
 Household (564K)
+
 📆 Daily Sales Trend
 Sales show variability across days.
 Peaks indicate possible promotional or high-demand periods.
@@ -49,6 +51,7 @@ Focus on high-performing products to maximize revenue.
 Increase digital payment incentives for better conversion.
 Optimize inventory based on monthly demand trends.
 Target marketing campaigns during peak sales periods.
+
 📈 Future Improvements
 Add customer segmentation analysis
 Integrate real-time data
@@ -56,5 +59,5 @@ Include forecasting models
 🙌 Conclusion
 
 This dashboard provides a complete overview of sales performance and helps businesses identify growth opportunities through data-driven insights.
-![Sales Dashboard]([./assets/dashboard.png](https://github.com/sameerkhan03-eng/Sales-DeshBorad/blob/main/Screenshot%202026-04-19%20093706.png))
+![Sales Dashboard](./assets/dashboard.png)
 
